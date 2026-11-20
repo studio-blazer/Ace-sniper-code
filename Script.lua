@@ -1,4 +1,3 @@
-# Ace-sniper-code
 --[[
     Auto-Trade Script - Steal a Brainrot
     Target: thiagoppbbcojo_2
